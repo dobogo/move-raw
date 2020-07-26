@@ -1,0 +1,17 @@
+{
+  "name": "move-raw",
+  "version": "0.0.1",
+  "author": "Katsuya Hino <dobogo0@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "glob": "^7.1.6"
+  },
+  "bin": [
+    "bin/move-arw",
+    "bin/move-cr2"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

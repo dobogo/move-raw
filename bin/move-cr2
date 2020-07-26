@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+
+'use strict';
+
+const {moveRaw} = require('../lib/move-raw');
+
+moveRaw('cr2');
